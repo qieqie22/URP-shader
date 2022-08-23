@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1100529064893024950
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 4
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "rright-\u5218\u6D77======.003"
+  m_Shader: {fileID: 4800000, guid: e82b6efa9ca0c4d43b38fec2e45cfdff, type: 3}
+  m_ShaderKeywords: USED_ANISOTROPIC Use_RIM_COLOR
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _JitterMap:
+        m_Texture: {fileID: 2800000, guid: c1407433a577c234ca966fb410839907, type: 3}
+        m_Scale: {x: 5.61, y: -0.19}
+        m_Offset: {x: -0.73, y: -0.31}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 981d9ad66f6c4c94e861e54710b9b200, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _rampTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AOWeight: 0.489
+    - _BoundSharp: 0.025
+    - _DiffuseRange: 0.5
+    - _DiffuseSmooth: 0.05
+    - _DividLineD: -0.341
+    - _DividLineM: 0.03
+    - _DividLineSpec: 0.504
+    - _DividSharpness: 1.74
+    - _EnableAnisotropic: 1
+    - _Exponent: 2048
+    - _FMax: 0.416
+    - _FMin: 0.154
+    - _FresnelEff: 0.145
+    - _FresnelMax: 0.416
+    - _FresnelMin: 0.154
+    - _FresnelStrength: 0.145
+    - _Glossiness: 0.047
+    - _Outlinewidth: 0.4
+    - _Range: 512
+    - _RimBloomExp: 2.35
+    - _RimBloomMulti: 1.005
+    - _RimMax: 0.936
+    - _RimMin: 0.176
+    - _RimRange: 2.35
+    - _RimStrength: 1.005
+    - _Roughness: 0.047
+    - _SSForwardAtt: 0.556
+    - _SSSAdjust: 0.556
+    - _SSSRange: 0.01
+    - _SSSSize: 0.01
+    - _SSSSpecular: 0.086
+    - _SSSWeight: 0.086
+    - _ShadowAdjust: 0.489
+    - _ShadowAttWeight: 0.341
+    - _ShadowRange: -0.341
+    - _ShadowSmooth: 0.05
+    - _SpecularRange: 0.504
+    - _SpecularStrength: 0
+    - _Strength: 2
+    - _SurShadowRange: 0.03
+    - _UseRimColor: 1
+    - _diffuseBright: 1
+    - _rimStrength: 0.241
+    - _shadowSmooth: 1.74
+    - _speStrength: 0
+    m_Colors:
+    - _AnisotropicColor: {r: 0.2509804, g: 0.2509804, b: 0.2509804, a: 1}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DarkFaceColor: {r: 0.47627813, g: 0.41255778, b: 0.6886792, a: 1}
+    - _DeepDarkColor: {r: 0, g: 0, b: 0.08490565, a: 1}
+    - _DiffuseColor: {r: 0.78999996, g: 0.78999996, b: 0.925, a: 1}
+    - _FresnelColor: {r: 1, g: 0.7268723, b: 0.5707545, a: 1}
+    - _OutlineColor: {r: 0.49056602, g: 0.073497, b: 0, a: 1}
+    - _RimColor: {r: 1, g: 0.6777429, b: 0, a: 1}
+    - _SSSColor: {r: 1, g: 0.56078434, b: 0.9647059, a: 1}
+    - _ShadowColor: {r: 0.1492524, g: 0.1492524, b: 0.24528301, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SurShadowColor: {r: 0.47599995, g: 0.41299996, b: 0.689, a: 1}
+    - _shadowColor: {r: 0, g: 0, b: 0.08499997, a: 1}
+    - _speColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

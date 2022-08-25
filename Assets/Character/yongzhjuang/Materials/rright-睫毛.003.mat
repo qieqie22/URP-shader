@@ -188,6 +188,7 @@ Material:
     - _shadowControl: 1.5
     - _speStrength: 0
     m_Colors:
+    - _AnisotropicColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _DarkFaceColor: {r: 1, g: 1, b: 1, a: 1}

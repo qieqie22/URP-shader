@@ -256,7 +256,7 @@ Shader "QNPR/FaceTransparent"
 
 		pass
 		{
-			//ZWrite Off
+			ZWrite Off
 			Blend SrcAlpha OneMinusSrcAlpha
 
 			HLSLPROGRAM
